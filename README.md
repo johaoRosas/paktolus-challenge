@@ -44,6 +44,19 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## URL
+
+```bash
+# development
+$ This App run at http://localhost:3000/google
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
 ## Test
 
 ```bash
